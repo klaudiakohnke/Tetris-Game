@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PROJEKT_TETRIS_KOHNKE:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PROJEKT_TETRIS_KOHNKE_jar</output-path>
+    <root id="archive" name="PROJEKT_TETRIS_KOHNKE.jar">
+      <element id="module-output" name="PROJEKT_TETRIS_KOHNKE" />
+    </root>
+  </artifact>
+</component>
